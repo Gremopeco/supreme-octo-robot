@@ -1,0 +1,7 @@
+C:\Users\Tachi\source\repos\pi\pi\bin\Debug\pi.exe.config
+C:\Users\Tachi\source\repos\pi\pi\bin\Debug\pi.exe
+C:\Users\Tachi\source\repos\pi\pi\bin\Debug\pi.pdb
+C:\Users\Tachi\source\repos\pi\pi\obj\Debug\pi.csproj.AssemblyReference.cache
+C:\Users\Tachi\source\repos\pi\pi\obj\Debug\pi.csproj.CoreCompileInputs.cache
+C:\Users\Tachi\source\repos\pi\pi\obj\Debug\pi.exe
+C:\Users\Tachi\source\repos\pi\pi\obj\Debug\pi.pdb
